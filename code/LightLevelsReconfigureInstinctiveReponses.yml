@@ -1,0 +1,16 @@
+name: LightLevelsReconfigureInstinctiveResponses
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - notebook
+  - anaconda_prompt
+  - statsmodels
+  - matplotlib
+  - pandas
+  - seaborn
+  - dabest
+
+  - pip:
+     - dabest
