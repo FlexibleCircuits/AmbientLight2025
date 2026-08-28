@@ -5,6 +5,7 @@ This data set refers to the publication **"Ambient Light Impacts Innate Behavior
 ## The folder **_code_** contains: 
 1. The script **"ReinhardEtAl2026_Figures.m"** which serves to replicate the main figure panels as well as helper code files created by third parties as indicated in the License files.
 2. The script **"ReinhardEtAl2026_Figure4.ipynb"** which contains the code to perform the mixed effects analysis and linear regression analysis of Figure 4 of the final manuscript.
+3. The script **"CEBRA_dimensionalityReduction.ipynb"** which contains the code for Figure 1F.
 
 ## The folder **_data_** contains the following files:
 ### The file **"main_data.mat"** contains the speed traces underlying the main paper figures as well as information about each trace. Specifically:
